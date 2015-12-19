@@ -4,10 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm going to put some thoughts inside this blog. Maybe it will be an articles
   about software development, tutorials, tips and tricks. Probably some live
   ideas. We will see :)
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://aistomin.github.io/" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
+baseurl: ""
+url: "http://aistomin.github.io/"
 github_username:  aistomin
-
-# Build settings
 markdown: kramdown
