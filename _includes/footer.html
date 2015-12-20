@@ -2,22 +2,28 @@
     <div class="wrapper">
         <div class="footer-col-wrapper">
             <div class="footer-col footer-col-1"></div>
-            <div class="footer-col footer-col-2">
+            <div class="footer-col footer-col-2" align="center">
                 {% if site.github_username %}
                 {% include icon-github.html username = site.github_username%}
                 {% endif %}
+                {% if site.linkedin_username %}
+                {% include icon-linkedin.html username = site.linkedin_username%}
+                {% endif %}
+                {% if site.email %}
+                {% include icon-mail.html email = site.email%}
+                {% endif %}
+                {% if site.google_id %}
+                {% include icon-google.html id = site.google_id%}
+                {% endif %}
                 {% if site.facebook_username %}
                 {% include icon-facebook.html username = site.facebook_username%}
-                {% endif %}
-                {% if site.linkedin_url %}
-                {% include icon-linkedin.html url = site.linkedin_url%}
                 {% endif %}
             </div>
             <div class="footer-col footer-col-3"></div>
         </div>
         <div class="footer-col-wrapper">
             <div class="footer-col footer-col-1"></div>
-            <div class="footer-col footer-col-2">
+            <div class="footer-col footer-col-2" align="center">
                 <p>{{site.copyright}}</p>
             </div>
             <div class="footer-col footer-col-3"></div>
