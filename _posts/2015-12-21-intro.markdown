@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Intro. My First Post."
+date:   2015-12-21 00:46:05 +0100
+categories: everything
+---
+That is my first post in this blog. In this post I would like to introduce 
+myself, explain the idea of this blog, share some plans etc.
+
+Hello, my dear reader!
+
+Let's start from introduction. My name is Istomin Andrej. I'm a 
+software developer for about 10 years. I'm 30 years old now: 28 years I
+was living in Kyrgyz Republic and last couple of years I was migrating.
+I lived in Belarus about a two years and now I'm living in Germany. I'm married
+and have a stepson. I believe, this information is enough for now. Later I will
+put a solid "Biography" page somewhere, as many self-indulgent guys do :) 
+Maybe :)
+
+The topics which are interesting to me: software development, music, 
+football("soccer" if you like). I think that all my future posts are mostly
+going to be related to any of these topics.
+
+What I'm going to share with you? I think it will be some tips and tricks for
+junior developers, instructions, probably some thoughts about software industry.
+Sometimes I will be sharing posts that are not related to IT, but I think it 
+won't be too often.
+
+What don't I want to be there? Political stuff. I don't want to write and 
+discuss anything related to racism, patriotism, religion and other bullshit 
+that some people are too much interesting in.
+
+In the next months I plan to publish few posts regarding Jenkins configuration. 
+Also I have to add comments section to the post's page. Without comments it's 
+not a blog, but rather diary of a madman. I need a feedback. The primary goal of
+this blog is to share something that can be useful for other people. 
+
+P.S. Sorry if this post is not really clear and well structured. It's my first
+attempt, I will try to be better.
+
+P.P.S. Yeah, my English is horrible, I know that. I'll try to improve it in the
+future, also I hope that information I will share is more important than form of
+my speech. I apologize for my English.
+
+Best regards,
+Andrej.
