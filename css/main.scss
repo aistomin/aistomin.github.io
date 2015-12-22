@@ -3,7 +3,18 @@
 ---
 @charset "utf-8";
 
-
+// font_name font
+@font-face {
+  font-family: 'alte_schwabacher';
+  src: url('/fonts/alteschwabacher/alteschwabacher.eot');
+  src: url('/fonts/alteschwabacher/alteschwabacher.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/alteschwabacher/alteschwabacher.woff2') format('woff2'),
+  url('/fonts/alteschwabacher/alteschwabacher.woff') format('woff'),
+  url('/fonts/alteschwabacher/alteschwabacher.ttf') format('truetype'),
+  url('/fonts/alteschwabacher/alteschwabacher.svg#alte_schwabacher') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
