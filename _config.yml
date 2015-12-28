@@ -1,9 +1,7 @@
 title: "Istomin's Blog"
 email: "andrej.istomin.ikeen@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
-  I'm going to put some thoughts inside this blog. Maybe it will be an articles
-  about software development, tutorials, tips and tricks. Probably some live
-  ideas. We will see :)
+  It's a personal blog of Andrej Istomin.
 baseurl: ""
 url: "http://aistomin.github.io/"
 github_username: "aistomin"
