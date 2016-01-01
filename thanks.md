@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /success
+permalink: /thanks
 ---
 
 Thank you for your subscription. You will be informed about new posts in this
