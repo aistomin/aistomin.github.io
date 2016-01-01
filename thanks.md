@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Thanks!
+notification: true
 permalink: /thanks
 ---
 
