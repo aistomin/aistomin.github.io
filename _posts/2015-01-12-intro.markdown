@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Local final variables do not work in Groovy"
+date:   2015-01-12 00:46:05 +0100
+categories: grails, groovy, programming, final variables
+---
+I noticed that something was really strange in Grails project I worked on. When
+I found out what is going on I couldn't believe my eyes. Groovy do not respect
+local final variables. Yes, I really mean that, do not respect, not at all.
+
+First of all, I want to remind how it works in java:
+{% highlight java %}
+public class FinalTest {
+    public static void main(String[] args) {
+        final int var = 1;
+        var = 2;
+        assert 1 == var;
+    }
+}
+{% endhighlight %}
+This code above can not be compiled. Java says: 
+{% highlight console %}
+chriss-MBP:final_test andrej$ javac FinalTest.java 
+FinalTest.java:4: error: cannot assign a value to final variable var
+        var = 2;
+        ^
+1 error
+{% endhighlight %}
+
+Ok, now let's look at the similar script in Groovy. I called it 
+final_test.groovy, that's it's content:
+{% highlight groovy %}
+final def var = 1
+var = 2
+assert 1 == var
+{% endhighlight %}
+
+Let's run it:
+{% highlight console %}
+chriss-MBP:final_test andrej$ groovy final_test.groovy 
+Caught: Assertion failed: 
+
+assert 1 == var
+         |  |
+         |  2
+         false
+
+Assertion failed: 
+
+assert 1 == var
+         |  |
+         |  2
+         false
+
+	at final_test.run(final_test.groovy:3)
+{% endhighlight %}
+
+Script was successfully compiled, no compile time errors. At runtime Groovy
+ignored ```final``` keyword and just assigned value 2 to the variable ```var```.
+
+For testing I was using Java version 1.7.0_79 for MacOS and Groovy 2.4.4. The
+test examples are in [repository](https://github.com/aistomin/final_test). You
+can test it in your environment if you do not think that my experiment is good
+enough. :)
+
+Be careful with that, do not rely on Groovy. 
+
+Happy coding everybody! :)
