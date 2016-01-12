@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Local final variables do not work in Groovy"
-date:   2015-01-12 00:46:05 +0100
+date:   2016-01-12 14:14:48 +0100
 categories: grails, groovy, programming, final variables
 ---
 I noticed that something was really strange in Grails project I worked on. When
