@@ -63,6 +63,9 @@ test examples are in [repository](https://github.com/aistomin/final_test). You
 can test it in your environment if you do not think that my experiment is good
 enough. :)
 
+Maybe in the future they will fix this problem with final variables: 
+[GROOVY-1628](https://issues.apache.org/jira/browse/GROOVY-1628)
+
 Be careful with that, do not rely on Groovy. 
 
 Happy coding everybody! :)
