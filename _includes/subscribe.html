@@ -13,8 +13,14 @@
     <label>
         <input type="text" name="_gotcha" style="display:none"/>
     </label>
+    <div>
+        <label for="message"> Who are you? Why interested?</label>
+        <p>
+            <textarea id="message" name="message" cols="35" rows="20"></textarea>
+        </p>
+    </div>
     <p>
         <input type="submit" value="Subscribe"/>
     </p>
-    <input type="hidden" name="_next" value="{{site.url}}thanks/" />
+    <input type="hidden" name="_next" value="{{site.url}}thanks/"/>
 </form>
