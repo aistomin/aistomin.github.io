@@ -28,7 +28,7 @@ won't be too often.
 
 What don't I want to be there? Political stuff. I don't want to write and 
 discuss anything related to racism, patriotism, religion and other bullshit 
-that some people are too much interesting in.
+that some people are too much interested in.
 
 In the next months I plan to publish few posts regarding Jenkins configuration. 
 Also I have to add comments section to the post's page. Without comments it's 
