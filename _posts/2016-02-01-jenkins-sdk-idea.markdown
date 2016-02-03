@@ -37,6 +37,6 @@ thoughts about it? Don't hesitate to share your point of view in comments:
 
 - Do you think somebody needs such a library?
 - Would you like to help me with implementation?
-- Hey, dude! You're just wasting your time!
+- Don't you think that it's just a wasting of time?
 
 Have a good time and happy coding everybody!
