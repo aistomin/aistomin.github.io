@@ -8,9 +8,9 @@ I work in a company that uses [Jenkins](https://jenkins-ci.org/) as a CI server
 in it's projects for a couple of years. Our infrastructure was growing and we 
 were automating it using some Groovy scripts. Sometimes we have situations where
 we need to read some build information from Jenkins or download artifacts or 
-trigger some builds. We doing all this manipulations using Groovy scripts.
+trigger some builds. I want to put all those pieces of code into something re-usable.
 
-During the time of creating such a scripts I got some experience with 
+During the time of creating automation scripts I got some experience with 
 [Jenkins Remote Access API](https://wiki.jenkins-ci.org/display/JENKINS/Remote+access+API).
 I believe, I'm able to summarise my knowledge and create a small library which
 will probably save some time for someone who will face the same issues that I
