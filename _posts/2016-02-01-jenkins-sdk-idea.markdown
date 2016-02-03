@@ -4,8 +4,8 @@ title:  "Java SDK for Jenkins API. The idea."
 date:   2016-02-01 04:09:01 +0100
 categories: programming opensource jenkins
 ---
-I work in a company that uses [Jenkins](https://jenkins-ci.org/) as a CI server
-in it's projects for a couple of years. Our infrastructure was growing and we 
+I work in a company that uses [Jenkins](https://jenkins-ci.org/) as a CI server. 
+Our infrastructure was growing and we 
 were automating it using some Groovy scripts. Sometimes we have situations where
 we need to read some build information from Jenkins or download artifacts or 
 trigger some builds. I want to put all those pieces of code into something re-usable.
