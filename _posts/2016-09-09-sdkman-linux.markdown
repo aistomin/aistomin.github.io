@@ -4,12 +4,12 @@ title:  "Ubuntu. Share SDKMAN/Grails/Groovy between Linux users."
 date:   2016-09-09 12:00:01 +0100
 categories: programming sdkman ubuntu linux grails groovy
 ---
-Hi there! I hope you’re doing well :) Summer is gone but it’s nice autumn and
-time for new fights with wins and loses :)
+Hi there! I hope you’re doing well :) Let's talk how to install SDKMAN on Linux
+system with several users.
 
 Some time ago I faced the problem: I needed Grails to be shared between 
-different users on our server. Surprisingly I found that 
-[SDKMAN](http://sdkman.io/install.html) installation doesn’t allow it out of the
+different users on our server. Surprisingly I found that default
+[SDKMAN installation](http://sdkman.io/install.html) doesn't allow it out of the
 box. The problem is that everything is installed in home directory of current
 user. For example, I install SDKMAN as root user on my server. SDK is installed
 to ```/root/.sdkman/```. After installation is finished you will see the text like: 
@@ -26,7 +26,7 @@ export SDKMAN_DIR="/root/.sdkman"
 [[ -s "/root/.sdkman/bin/sdkman-init.sh" ]] && source "/root/.sdkman/bin/sdkman-init.sh"
 {% endhighlight %}
 
-But how it’s going to work for other users? Let’s say I have ```another_user```
+But how is it going to work for other users? Let’s say I have ```another_user```
 on the same server who is non-priviledged user. I want him to be able to use 
 Grails which was installed by SDKMAN. I tried  ```source "/root/.sdkman/bin/sdkman-init.sh"```, 
 but got error:
@@ -34,9 +34,9 @@ but got error:
 -su: /root/.sdkman/bin/sdkman-init.sh: Permission denied
 {% endhighlight %}
 
-Frankly speaking I was disappointed :) 
+Frankly speaking, I was disappointed :) 
 
-After some time I found the solution:
+After some time I found the solution which solved my problem:
 
 1. [Uninstall SDKMAN](http://therealdanvega.com/blog/2015/10/14/uninstalling-gvm-or-sdk-man-on-mac-osx) 
     and all the shit that came with him.
