@@ -18,13 +18,15 @@ frameworks)._
 
 {:.center-content}
 _I have a lot of hobbies and interests such as music, literature, science etc.
-Football is also a big part of my life. I'm a FC Bayern München fan._
+Football is also a big part of my life. I'm an FC Bayern München fan._
 
 <br/>
 
 {:.center-content}
 _All the links to my public profiles you may find in the bottom of
-the page. Those profiles describe me better than I could do it myself._ 
+the page. Those profiles describe me better than I could do it myself, I 
+believe. Both professional and personal information about me is 
+highly represented in those professional/social networks._ 
 
 <br/>
 
