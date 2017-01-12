@@ -27,8 +27,8 @@ titles first). Here we go:
 4. [Jared Dines](https://www.youtube.com/channel/UCJcYRr8rpsxVPfWA5vkuxFw):
     Funny music-related videos and sketches.
 
-5. [Pima Live](https://www.youtube.com/channel/UCEb4vwhFFJcO8w-TrR8iRNw): Guitar
-    learning channel. The content is in Russian.
+5. [Pima Live](https://www.youtube.com/channel/UCEb4vwhFFJcO8w-TrR8iRNw): Awesome guitar
+    learning channel. Probably the best one I've ever seen. The content is in Russian.
 
 6. [QI Quite Interesting](https://www.youtube.com/channel/UCtk3OPc31bHfVvvzC5ru04w):
     The British television quiz show series with Russian subtitles.
@@ -54,7 +54,7 @@ titles first). Here we go:
     player Alexander Bubnov. The videos are in Russian.
 
 13. [Иван Сыромятников](https://www.youtube.com/channel/UCHImITX13FKpk7tPk8kO7-w):
-    Guitar lessons, tips and tricks, setup and other guitar related videos.
+    Guitar lessons, tips and tricks, gear setup and other guitar related videos.
     The channel is in Russian.
 
 14. [Картавый Футбол](https://www.youtube.com/channel/UCYKXkKRqQqCoIAHG0_N32QQ):
