@@ -73,7 +73,7 @@ them to be not mentioned there at all. :) For example, [kamikadzedead](https://w
 was not included as I promised not to talk about politics in this blog since the very first post.
 [Дмитрий ПОТАПЕНКО](https://www.youtube.com/channel/UC54SBo5_usXGEoybX1ZVETQ) and
 [Бизнес-секреты](https://www.youtube.com/channel/UC_ErLqdnmXGMH-pccUQjwyA)
-were not included as they are very business-specific channels and for the vast
+were not included as they are very business-oriented channels and for the vast
 majority of my readers it's going to be just boring.
 
 I hope you will find something interesting for you in this list :)
