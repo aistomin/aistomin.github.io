@@ -49,7 +49,7 @@ cases I find something during such a review.
 issue-tracking system + clear explanation of what was changed and why. That's what I would
 appreciate.
 8. If you have a CI, please, **wait for green build**. I know, it's already 17:57 and you have
-to go, but, please, wait... I would even recommend not to share you changes with a team if you
+to go, but, please, wait... I would even recommend not to share your changes with a team if you
 do not plan to stay for a next couple of hours.
 9. Build is green. Go and take some sweeties! :) Well done!
 
