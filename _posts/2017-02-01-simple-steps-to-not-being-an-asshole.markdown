@@ -45,7 +45,7 @@ of code. Just f*cking do it!!! Please. Do it even more carefully if you're commi
 during review. I never thought about it deeply, but I have a feeling that in 90% of
 cases I find something during such a review.
 7. Commit your changes. **Write the informative commit message**. "bugfix" or
-"some improvements" are not an informative messages fto me. Ticket number from your
+"some improvements" are not an informative messages to me. Ticket number from your
 issue-tracking system + clear explanation of what was changed and why. That's what I would
 appreciate.
 8. If you have a CI, please, **wait for green build**. I know, it's already 17:57 and you have
@@ -60,9 +60,9 @@ believe that it will help you to become more reliable for your colleagues. Just 
 those steps and you will be better than many of those developers which I met in my life.
 
 
-Share your ideas and your tips in comments. :)
+Share your ideas and your tips in comments! :)
 
-See you soon, happy coding!
+See you soon, happy coding! Bye, bye!
 
 P.S. Tip #0. Choose a <s>convenient</s> <s>commercial</s> JetBrains IDE for creating your code and pay attention to the
 warnings and hints that it offers you. IDE is your friend and helper. Unless you use Eclipse, of course.
