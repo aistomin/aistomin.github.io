@@ -20,10 +20,11 @@ Ok, first let's remember the problems we all know:
  just to fix this typo in label's text?"
 * "This asshole pushed some crap and the red build is blocking my work now."
 * "This imbecile is not able even to use IDE for code formatting." another
-    variant: "This dumbass reformatted all the code in a project using his f*cking IDE"
+    variant: "This dumbass reformatted all the code in the whole project using his f*cking IDE"
 * "Console outputs in production code? Seriously?"
 * "The code can not even be compiled after this changes(facepalm)".
 * And, my favourite, the situation of "Some fixes" commit message in VCS history.
+
 Of course, this list of small annoying problems can be endless, but I hope you got the
 idea what really enrages me :)
 
@@ -63,5 +64,5 @@ Share your ideas and your tips in comments. :)
 
 See you soon, happy coding!
 
-P.S. Tip #0. Choose the <s>convenient</s> <s>commercial</s> JetBrains IDE for creating your code and pay attention to the
-warnings and hints it offers you. IDE is your friend and helper. Unless you use Eclipse, of course.
+P.S. Tip #0. Choose a <s>convenient</s> <s>commercial</s> JetBrains IDE for creating your code and pay attention to the
+warnings and hints that it offers you. IDE is your friend and helper. Unless you use Eclipse, of course.
