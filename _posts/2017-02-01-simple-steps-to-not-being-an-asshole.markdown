@@ -9,10 +9,10 @@ different capabilities etc. But how often do we think about ourselves being an a
 who annoys the others? That's I believe the thing we should always care about. It's not
 easy at all, but I have a few thoughts which I would like to share with
 you. Maybe it will help you to be more effective and less annoying :) The post was
-planed as a post for junior developers. Although, I know for sure that many "Senior"
+planned as a post for junior developers. Though, I know for sure that many "Senior"
 developers have no idea about those basic things which I'm going to say now.
 They just don't care. Actually, everything I'm going to say in this post is as simple
-as washing hands before lunch. Let's go:
+as washing your hands before lunch. Let's go:
 
 Ok, first let's remember the problems we all know:
 
