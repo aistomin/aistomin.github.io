@@ -29,7 +29,7 @@ idea what really enrages me :)
 
 So, I suggest a few really easy steps, which help to avoid many of those problems:
 
-1. **Read the task carefully**. Don't start working until you understand the task 100%.
+1. **Read the task description carefully**. Don't start working until you understand the task 100%.
 2. If it's a bug, **reproduce it** first. If you can not reproduce it don't even try
 to solve it. If you're lucky to reproduce it - remember the scenario, you will need
 it later to verify your results.
@@ -39,17 +39,17 @@ and let's move on to the point where you think you're ready to finish with the t
 around. If it's a bug, follow the scenario from (2) and make sure the problem is solved.
 5. **Run all the tests**(if you have them).
 6. **Review your code before commit**. Yes, even if you changed 100 files and 10000 lines
-of code. Just f*cking to it!!! Please. Do it even more carefully if you're committing
+of code. Just f*cking do it!!! Please. Do it even more carefully if you're committing
 1 line of changes which "will obviously work". Enjoy every time when you find nothing
-during review. I never thought about it deeply, but I have a feeling that in 90% of the
-cases I always find something during such a review.
+during review. I never thought about it deeply, but I have a feeling that in 90% of
+cases I find something during such a review.
 7. Commit your changes. **Write the informative commit message**. "bugfix" or
 "some improvements" are not an informative messages fto me. Ticket number from your
 issue-tracking system + clear explanation of what was changed and why. That's what I would
 appreciate.
 8. If you have a CI, please, **wait for green build**. I know, it's already 17:57 and you have
-to go, but, please, wait... I would even recommend not to share you changes if you do not
-plan to stay for a next couple of hours.
+to go, but, please, wait... I would even recommend not to share you changes with a team if you
+do not plan to stay for a next couple of hours.
 9. Build is green. Go and take some sweeties! :) Well done!
 
 I'm not naive and I do not believe those small tips will save the world. But they will
