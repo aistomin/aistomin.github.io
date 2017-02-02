@@ -53,7 +53,7 @@ to go, but, please, wait... I would even recommend not to share your changes wit
 do not plan to stay for a next couple of hours.
 9. Build is green. Go and take some sweeties! :) Well done!
 
-I'm not naive and I do not believe those small tips will save the world. But they will
+I'm not a naive guy and I do not believe those small tips will save the world. But they will
 minimise your risk of being asked "WTF is this?". Of course, we're all humans and we're
 making mistakes. Following my tips, you will not stop making mistakes. But I really do
 believe that it will help you to become more reliable for your colleagues. Just follow
