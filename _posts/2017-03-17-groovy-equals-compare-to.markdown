@@ -3,14 +3,14 @@ layout: post
 title:  "Groovy .equals() method uses .compareTo() under the hood."
 date:   2017-03-17 00:00:00 +0100
 ---
-Today a colleague of mine shared with us a curious observation. He found out
+Today a colleague of mine shared a curious observation. He found out
 that ```.equals()```(or ```==```) in Groovy does something different from
-what we would expect in Java. Oddly enough it uses ```compareTo()``` method
+what we would expect in Java. Oddly enough, it uses ```compareTo()``` method
 under the hood. I've made some code samples. Let's look at them.
 
 **Test case:**
 
-1. We have a class with some ```Long``` identifier field.
+1. We have a class with some ```Long``` identifier field called ```id```.
 2. The class implements ```Comparable``` interface and ```compareTo()``` compares the ```id``` values.
 3. We have two instances of this class with ```id = 1```.
 4. The expected behaviour is that first instance is not equal to the second one.
@@ -53,12 +53,12 @@ Test is finished.
 
 {% highlight groovy %}
 void testEquals() {
-    println "Test is started"
+    println "Test is started."
     final first = new MyClass(1)
     final second = new MyClass(1)
     assertTrue(!first.equals(second))
     assertTrue(first != second)
-    println "Test is finished"
+    println "Test is finished."
 }
 
 final class MyClass implements Comparable<MyClass> {
