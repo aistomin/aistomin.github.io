@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Groovy .equals() method uses .compareTo() under the hood."
+title:  "Groovy's .equals() method uses .compareTo() under the hood."
 date:   2017-03-17 00:00:00 +0100
 ---
 Today a colleague of mine shared a curious observation. He found out
