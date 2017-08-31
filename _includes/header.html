@@ -18,12 +18,35 @@
 
             <div class="trigger">
                 {% for my_page in site.pages %}
-                    {% unless my_page.notification %}
-                        {% if my_page.title %}
-                            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-                        {% endif %}
-                    {% endunless %}
+                {% unless my_page.notification %}
+                {% if my_page.title %}
+                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                {% endif %}
+                {% endunless %}
                 {% endfor %}
+
+                {% if site.github_username %}
+                {% include icon-github.html username = site.github_username%}
+                {% endif %}
+                {% if site.so_id %}
+                {% include icon-so.html id = site.so_id%}
+                {% endif %}
+                {% if site.linkedin_username %}
+                {% include icon-linkedin.html username = site.linkedin_username%}
+                {% endif %}
+                {% if site.youtube_id %}
+                {% include icon-youtube.html id = site.youtube_id%}
+                {% endif %}
+                {% if site.google_id %}
+                {% include icon-google.html id = site.google_id%}
+                {% endif %}
+                {% if site.facebook_username %}
+                {% include icon-facebook.html username = site.facebook_username%}
+                {% endif %}
+                {% if site.instagram_username %}
+                {% include icon-instagram.html username = site.instagram_username%}
+                {% endif %}
+                {% include icon-rss.html%}
             </div>
         </nav>
 
