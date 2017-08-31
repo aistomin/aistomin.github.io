@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 {:.center-content}
-![It's me :)]({{ site.url }}assets/i.jpeg)
+![It's me :)]({{ site.url }}assets/bw_look.jpeg)
 
 <br/>
 
