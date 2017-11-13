@@ -23,7 +23,7 @@ Football is also a big part of my life. I'm an FC Bayern München fan._
 <br/>
 
 {:.center-content}
-_All the links to my public profiles you may find in the bottom of
+_All the links to my public profiles you may find in the top right corner of
 the page. Those profiles describe me better than I could do it myself, I 
 believe. Both professional and personal information about me is 
 highly represented in those professional/social networks._ 
