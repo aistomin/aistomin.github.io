@@ -10,6 +10,9 @@ will be. For now I publish some of my self-made music here. Maybe in the
 future there will also be some videos related to my other interests. In the post
 below I will tell you couple of words about my channel. Keep on reading :)
 
+<iframe width="420" height="345" src="https://www.youtube.com/embed/DIEBQxqY1yU">
+</iframe>
+
 For a long time I have been feeling like I wanted to create my channel and share some
 stuff with the audience. Many times I stopped myself because this content is
 not really professional and I was not sure how audience will accept it. I was
