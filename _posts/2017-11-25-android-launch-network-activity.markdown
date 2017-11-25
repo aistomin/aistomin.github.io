@@ -14,7 +14,7 @@ system WIFI management activity using ```Settings.ACTION_WIFI_SETTINGS``` or
 
 As I said, I spent quite some time googling and trying to find the solution. Maybe my googling
  skills are not that strong, maybe my understanding of Android world is not that deep and I
- used wrong terms in my queries, however, I almost gave up the idea of using standard tools for
+ used wrong terms in my queries, whatever, I almost gave up the idea of using standard tools for
  network management and was about to start implementing my own monster.
 
  Suddenly, playing around with Android emulator, I noticed the following line in logcat:
