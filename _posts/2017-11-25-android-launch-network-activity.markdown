@@ -35,7 +35,7 @@ As I said, I spent quite some time googling and trying to find the solution. May
         )
     );
     startActivity(intent);
-}
+ }
  ```
 
  The code above is the method of activity from where you plan to launch network settings.
