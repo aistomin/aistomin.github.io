@@ -3,6 +3,7 @@ layout: post
 title:  "Intro. My First Post."
 date:   2015-12-21 00:46:05 +0100
 categories: everything
+tags: [jekyll, blog, istomin, andreiistomin, andrejistomin, andrei, andrej, aistomin]
 ---
 That is my first post in this blog. In this post I would like to introduce 
 myself, explain the idea of this blog, share some plans etc.

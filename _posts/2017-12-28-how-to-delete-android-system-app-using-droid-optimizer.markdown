@@ -2,6 +2,7 @@
 layout: post
 title:  "Android. Delete System App using Droid Optimizer."
 date:   2017-12-28 00:00:00 +0100
+tags: [android, delete, system, application]
 ---
 In this article I'm going to demonstrate my method of deleting Android system
 applications using [Droid Optimizer](https://play.google.com/store/apps/details?id=com.ashampoo.droid.optimizer)

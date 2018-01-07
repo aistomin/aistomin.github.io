@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About Me
+tags: [istomin, aistomin, andreiistomin, andrejistomin, blog, programming, software, development, channel, classical, rock, guitar, music]
 permalink: /about/
 ---
 {:.center-content}

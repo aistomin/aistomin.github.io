@@ -2,6 +2,7 @@
 layout: post
 title:  "Groovy's .equals() method uses .compareTo() under the hood."
 date:   2017-03-17 00:00:00 +0100
+tags: [groovy, equals, compareto, bug]
 ---
 Today a colleague of mine shared a curious observation. He found out
 that ```.equals()```(or ```==```) in Groovy does something different from

@@ -2,6 +2,7 @@
 layout: post
 title:  "A Few Practical Tips for Junior Developers."
 date:   2017-02-01 00:00:00 +0100
+tags: [developers, programmers, assholes, guide]
 ---
 Many of us are used to be annoyed by colleagues. That's just the thing nobody can
 avoid working in a team: people have different points of view, different habits,

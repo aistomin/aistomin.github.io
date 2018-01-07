@@ -2,6 +2,7 @@
 layout: post
 title:  "Android. How to launch System NetworkActivity programmatically."
 date:   2017-11-25 00:00:00 +0100
+tags: [android, launch, networkactivity, programmatically]
 ---
 Recently I faced the problem when I needed to have a full network management functionality
 in my Android TV application. Everything I found with quick google search is how to run

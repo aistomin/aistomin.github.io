@@ -3,6 +3,7 @@ layout: post
 title:  "Hibernate. No Dialect mapping for JDBC type: 1111."
 date:   2016-11-10 20:00:01 +0100
 categories: hibernate grails gorm postgres
+tags: [hibernate, jdbc, error, 1111]
 ---
 Hello coders!
 I'll try to explain the problem and show my solution to it using Grails code 

@@ -3,6 +3,7 @@ layout: post
 title:  "Java SDK for Jenkins API. The idea."
 date:   2016-02-01 04:09:01 +0100
 categories: programming opensource jenkins
+tags: [java, jenkins, sdk, client, jenkinssdk, jenkinsclient, jenkinsjavaclient]
 ---
 I work in a company that uses [Jenkins](https://jenkins-ci.org/) as a CI server. 
 Our infrastructure was growing and we 

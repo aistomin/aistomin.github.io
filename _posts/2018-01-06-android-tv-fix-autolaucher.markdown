@@ -2,6 +2,7 @@
 layout: post
 title:  "Android TV Box. Autolauncher problems with Android 7(Nougat). My solution."
 date:   2018-01-06 00:00:00 +0100
+tags: [android, nougat, androidtv, webchip, autolauncher, bug, kioskmode, homeapp, reboot]
 ---
 I found out that auto-launching feature doesn't work properly on my 
 [WeChip](http://www.wechipbox.com/) device with Android 7 installed on it. It

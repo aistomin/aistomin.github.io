@@ -3,6 +3,7 @@ layout: post
 title:  "Ubuntu. Share SDKMAN/Grails/Groovy between Linux users."
 date:   2016-09-09 12:00:01 +0100
 categories: programming sdkman ubuntu linux grails groovy
+tags: [sdkman, linux, shared, users]
 ---
 Hi there! I hope you’re doing well :) Let's talk how to install SDKMAN on Linux
 system with several users.

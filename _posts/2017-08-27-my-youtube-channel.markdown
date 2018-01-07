@@ -2,6 +2,7 @@
 layout: post
 title:  "My Youtube Channel."
 date:   2017-08-27 00:00:00 +0100
+tags: [istomin, aistomin, andreiistomin, andrejistomin, channel, classical, rock, guitar, music]
 ---
 Hi guys! What's up? Some time ago along with this blog I decided to go further
 in my socialisation and started my [Youtube channel](https://www.youtube.com/channel/UC_Xbh9rT4YiFL4U84oalEjQ).
