@@ -52,6 +52,9 @@
                 {% if site.pinterest_id %}
                 {% include icon-pinterest.html id = site.pinterest_id%}
                 {% endif %}
+                {% if site.twitter_username %}
+                {% include icon-twitter.html username = site.twitter_username%}
+                {% endif %}
                 {% include icon-rss.html%}
             </div>
         </nav>
