@@ -1,1 +1,1 @@
-Visit my blog: http://aistomin.github.io/
+My blog is available at http://aistomin.github.io/
