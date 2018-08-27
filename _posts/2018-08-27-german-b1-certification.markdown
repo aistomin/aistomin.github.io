@@ -11,3 +11,7 @@ exam + share some ideas I have. I'd like to show my "lazy" method of
 preparation, which hardly help you to learn the language, but may help you
 to pass the exam :) 
 
+First of all, I want to say, that I'm not an expert in languages. I do not speak
+neither German nor English at the descent level. The only thing is that I managed
+to pass the exam and my experience might be useful for somebody.
+
