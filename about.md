@@ -10,7 +10,7 @@ permalink: /about/
 <br/>
 
 {:.center-content}
-_I'm a software developer. Last years I'm focused on server side issues, 
+_I'm a professional software developer. Last years I've been focused on server side issues, 
 including multi-threading, concurrency and complex business logic problems.
 Mostly I use Java technologies(including Grails, Spring, Hibernate and other
 frameworks)._ 
@@ -25,8 +25,7 @@ Football is also a big part of my life. I'm an FC Bayern München fan._
 
 {:.center-content}
 _All the links to my public profiles you may find in the top right corner of
-the page. Those profiles describe me better than I could do it myself, I 
-believe. Both professional and personal information about me is 
+the page. Both professional and personal information about me is 
 highly represented in those professional/social networks._ 
 
 <br/>
