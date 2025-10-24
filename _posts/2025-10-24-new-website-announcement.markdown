@@ -1,15 +1,11 @@
 ---
 layout: post
 title: 'New Website Launch! 🚀'
-date: 2025-10-24 13:00:00 +0200
+date: 2025-10-24 12:00:00 +0200
 tags: [website, announcement, blog, aistomin]
 ---
 
-Hey everyone! 👋
-
-I'm excited to share some news with you - I've just launched my new website at [aistomin.com](https://aistomin.com/)!
-
-This has been a project I've been working on for a while, and I'm really happy with how it turned out. The new site contains information about me, my work, and most importantly - a fresh new blog where I'll be sharing my thoughts and experiences.
+Hey everyone! 👋 I'm excited to share some news with you - I've just launched my new website at [aistomin.com](https://aistomin.com/) This has been a project I've been working on for a while, and I'm really happy with how it turned out. The new site contains information about me, my work, and most importantly - a fresh new blog where I'll be sharing my thoughts and experiences.
 
 You can check out the source code on [GitHub](https://github.com/aistomin/aistomin.com) if you're curious about the technical details. It's built with Jekyll and I've tried to keep things simple and clean.
 
