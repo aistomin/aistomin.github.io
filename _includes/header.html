@@ -17,16 +17,7 @@
             </a>
 
             <div class="trigger">
-                {% if site.youtube_id %}
-                <a class="page-link-red" href="https://www.youtube.com/channel/{{ site.youtube_id }}">My YouTube Channel</a>
-                {% endif %}
-                {% for my_page in site.pages %}
-                {% unless my_page.notification %}
-                {% if my_page.title %}
-                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-                {% endif %}
-                {% endunless %}
-                {% endfor %}
+                <a class="page-link-red" href="https://aistomin.com/" target="_blank">Visit My New Website</a>
 
                 {% if site.github_username %}
                 {% include icon-github.html username = site.github_username%}
